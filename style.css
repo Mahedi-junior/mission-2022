@@ -1,33 +1,40 @@
-body{
-    font-family: 'Poppins', sans-serif;
-}
-span{
+
+body {
+    font-family: "Poppins", sans-serif;
+    }
+    .top-heading {
+    font-family: Yeseva One;
+    font-size: 50px;
+    font-weight: 600;
+    }
+    .top-heading mission-2022 {
+    color: #ffad5a;
+    }
+    span {
     color: orange;
-}
-h1{
+    }
+    h1 {
     margin-left: 10px;
     font-size: 40px;
-    
-}
-.big{
-    border-left: 5px solid red
-    
-}
-section{
+    }
+    .big {
+    border-left: 5px solid red;
+    }
+    section {
     display: flex;
     margin-top: 30px;
-}
-.first{
+    }
+    .top-section {
     width: 80%;
     margin-left: 5%;
-}
-.first img{
+    }
+    .top-section img {
     width: 80%;
-}
-.first p{
+    }
+    .top-section p {
     width: 80%;
-}
-.button{
+    }
+    .button {
     color: white;
     text-decoration: none;
     font-weight: 300;
@@ -35,106 +42,113 @@ section{
     background-color: rgb(241, 60, 36);
     padding: 7px 20px;
     border-radius: 10px;
-}
-.my-mission{
+    }
+    .mission-heading {
     text-align: center;
     font-weight: 900px;
     font-size: 50px;
-}
-
-.secend{
+    }
+    
+    .mission-section {
     width: 90%;
     margin-left: 4%;
-}
-.another{
-     width: 80%; 
-     margin-left: 20px;
-    /* border: 2px solid rgb(216, 180, 180); */
+    }
+    .card-section {
+    width: 80%;
+    margin-left: 20px;
     margin: 50px 20px;
     padding: 20px 30px;
     background-color: wheat;
     border-radius: 20px;
-}
-.another img{
+    }
+    .card-section img {
     width: 50%;
-}
-.another p{
+    }
+    .card-section p {
     width: 100%;
-    font-size: 20px;
-}
-.third-part{
+    font-size: 16px;
+    color: #424242;
+    }
+    .develop-section {
     margin-top: 50px;
-}
-.man-pic{
+    }
+    .man-pic {
     width: 100%;
     padding: 10px 10px;
     margin-left: 2%;
     margin-right: 30px;
-    
-}
-.man-pic img{
+    }
+    .man-pic img {
     width: 90%;
     margin-left: 50px;
     border-radius: 20px;
-    
-}
- .man-pic1{
-     margin-right: 30px; 
+    }
+    .developer {
+    margin-right: 30px;
     padding-right: 20px;
-} 
-.fourth-part{
+    }
+    .community-section {
     margin-top: 100px;
-}
-.man2-pic{
+    }
+    .community {
     width: 50%;
-}
-.man2-pic img{
+    }
+    .community img {
     width: 80%;
     border-radius: 20px;
     margin-left: 100px;
-}
-.last1{
+    }
+    .community-heading {
     margin-left: 20px;
-}
-
-footer{
+    }
+    
+    .subscribe-section {
+    background-color: rgb(250, 209, 132);
+    justify-content: center;
+    text-align: center;
+    }
+    h3 {
+    font-size: 30px;
+    }
+    
+    .subscribe-background {
+    padding: 10px;
+    margin-bottom: 20px;
+    }
+    
+    .subscribe {
+    padding: 10px 30px;
+    border-radius: 15px;
+    background-color: wheat;
+    margin-top: 30px;
+    height: 300px;
+    width: 700px;
+    }
+    .form-email {
+    padding: 15px 20px;
+    border-radius: 5px;
+    border: 1px solid #cad3db;
+    width: 300px;
+    font-size: 18px;
+    color: #0f121f;
+    }
+    
+    .form-button {
+    background: #3d9fff;
+    width: 150px;
+    border: none;
+    height: 50px;
+    border-radius: 5px;
+    font-size: 18px;
+    color: white;
+    }
+    footer {
     margin-top: 50px;
     text-align: center;
     color: whitesmoke;
     background-color: black;
-  padding-top: 20px;
-  padding-bottom: 30px;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-
-}
-.button2{
-     background-color: rgb(201, 189, 201); 
-    text-align: center;
-    margin: 0px 25%;
-    margin-top: 50px;
-    font-size: 30px;
-    border-radius: 20px;
-    padding-bottom: 20px;
-    /* margin-bottom: 20px; */
-    box-shadow: 5px 10px 18px rgb(17, 1, 1);
-}
-.submit{
-    font-size: 20px;
-    background-color: rgb(165, 156, 165); 
-    color: rgb(6, 7, 6);
-    border-radius: 5px;
-   
-}
-.submit:hover{
-    color: rgb(252, 252, 247);
-    background-color: rgb(218, 52, 182);
-}
- .inter{
-    font-size: 20px;
-    color: rgb(10, 10, 10);
-    background-color: rgb(201, 189, 201); 
-}
-.inter:hover{
-    background-color: rgb(255, 247, 252); 
-    color: rgb(11, 12, 11);
-} 
+    padding-top: 20px;
+    padding-bottom: 30px;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+    }
