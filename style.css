@@ -1,0 +1,62 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+span{
+    color: orange;
+}
+h1{
+    margin-left: 10px;
+    font-size: 40px;
+    
+}
+.big{
+    border-left: 5px solid red
+    
+}
+section{
+    display: flex;
+    margin-top: 30px;
+}
+.first{
+    width: 80%;
+    margin-left: 5%;
+}
+.first img{
+    width: 80%;
+}
+.first p{
+    width: 80%;
+}
+.button{
+    color: white;
+    text-decoration: none;
+    font-weight: 300;
+    font-size: 20px;
+    background-color: rgb(241, 60, 36);
+    padding: 7px 20px;
+    border-radius: 10px;
+}
+.my-mission{
+    text-align: center;
+    font-weight: 900px;
+    font-size: 50px;
+}
+
+.secend{
+}
+.another{
+     width: 80%; 
+     margin-left: 20px;
+    /* border: 2px solid rgb(216, 180, 180); */
+    margin: 50px 20px;
+    padding: 20px 30px;
+    background-color: wheat;
+    border-radius: 20px;
+}
+.another img{
+    width: 50%;
+}
+.another p{
+    width: 100%;
+    font-size: 20px;
+}
